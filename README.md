@@ -1,44 +1,49 @@
-# Student Mental Health Analysis 🧠
+# Student Mental Health Analysis
+> Data analysis and ML models predicting student mental well-being.
 
-A data analysis and machine learning project exploring factors related to student mental health using survey data.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)\n![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-000000?style=flat)\n![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat)\n
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+## 🎯 What it does
 
-## 📋 Overview
+This repository contains the source code for Student Mental Health Analysis. Data analysis and ML models predicting student mental well-being. It is designed to be scalable, efficient, and user-friendly.
 
-This project analyzes a dataset related to student mental health, performing:
-- Data preprocessing (handling missing values, encoding categorical variables)
-- Exploratory data analysis with visualizations
-- Machine learning models to predict mental health issues
-- Model evaluation using multiple metrics
+## ✨ Features
 
-## 📊 Dataset
-
-**File:** `Student Mental health.csv`
-
-**Columns include:**
-- Gender, Age, Course, Year of Study
-- CGPA, Marital Status
-- Depression, Anxiety, Panic Attacks
-- Treatment status
+- ⚡ **Core Functionality** — Reliable and robust execution.
+- 🎨 **User Experience** — Designed with a focus on simplicity and ease of use.
+- 🛠️ **Scalable Architecture** — Built to handle future growth and feature expansions.
 
 ## 🛠️ Tech Stack
 
-- Python, Pandas, NumPy
-- scikit-learn (ML models)
-- Matplotlib, Seaborn (visualization)
+| Layer | Technology |
+|-------|-----------|
+| Languages/Frameworks | Python /Scikit-Learn /Pandas |
 
-## 🚀 Getting Started
+## 🚀 How to run locally
 
 ```bash
+# Clone the repository
 git clone https://github.com/Himancer/Student-Mental-Health-Analysis.git
+
+# Navigate to the directory
 cd Student-Mental-Health-Analysis
-pip install pandas numpy scikit-learn matplotlib seaborn
-python student_mental_health_analysis.py
+
+# (Add environment-specific run commands here)
 ```
+
+## 🗺️ Roadmap
+
+- [x] Project Initialization
+- [ ] Core Features Implementation
+- [ ] UI/UX Polish
+- [ ] Production Deployment
 
 ## 👤 Author
 
-**Himanshu Pandey** — [@Himancer](https://github.com/Himancer)
+**Himanshu Pandey**
+- GitHub: [@Himancer](https://github.com/Himancer)
+- LinkedIn: [himanshu-pandey](https://linkedin.com/in/himanshu-pandey-053660200)
+- Portfolio: [himanshu-dev.vercel.app](https://himanshu-dev.vercel.app)
+
+---
+*"Ab Nahi To Kab 🔥"*
