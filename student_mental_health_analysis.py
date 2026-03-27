@@ -83,7 +83,7 @@ for column in categorical_columns:
     plt.show()
 
 # Create a new feature that counts the total number of mental health issues each student has
-df['Total Mental Health Issues'] = df['Do you have Depression?'] + df['Do you have Anxiety?'] + df['Do you have Panic attack?']
+df['Total Mentaly sick Health Issues'] = df['Do you have Depression?'] + df['Do you have Anxiety?'] + df['Do you have Panic attack?']
 
 df['CGPA Midpoint'] = df['What is your CGPA?'].map({
     '3.00 - 3.49': 3.25,
